@@ -1,0 +1,339 @@
+house-id,area,bathroom,bedroom,buildingSize,data-date,data-isonshow,data-location,data-url,erfSize,garage,type
+1352,boland-winelands,2,4,280,2018-09-28 12:00:02,FALSE,Monte Sereno,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-monte-sereno/sw1395402,1011,2,house
+1353,boland-winelands,1,3,,2017-02-14 13:32:37,FALSE,Riebeek Kasteel,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-riebeek-kasteel/rv1306045,1503,,apartment
+1354,boland-winelands,3,3,220,2018-11-12 11:56:28,FALSE,Erinvale,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-erinvale/sw1407846,761,,house
+1355,boland-winelands,3,4,167,2017-11-24 14:40:40,FALSE,Welgevonden Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-welgevonden-estate-stellenbosch/st1350460,221,1,apartment
+1356,boland-winelands,5,4,335,2017-06-19 14:48:04,FALSE,Val de Vie,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-val-de-vie/tk1325063,935,2,house
+1357,city-bowl,1,2,69,2018-09-05 17:09:50,FALSE,Cape Town Central,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-cape-town-central/cb1392239,,,apartment
+1358,boland-winelands,2,3,260,2017-11-06 16:44:26,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tafelzicht/1ms1347243,810,2,apartment
+1359,southern-suburbs,2,2,87,2018-05-29 14:08:16,FALSE,Green Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-green-point-cape-town/as1378395,,,apartment
+1360,boland-winelands,2.5,4,200,2018-10-26 09:05:12,FALSE,Welgevonden Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-welgevonden-estate-stellenbosch/st1405340,192,2,house
+1361,city-bowl,2,2,103,2018-05-23 12:38:50,FALSE,Cape Town Central,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-cape-town-central/cb1376555,,,apartment
+1362,southern-suburbs,1,2,82,2018-03-01 15:43:07,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1359856,,1,apartment
+1363,boland-winelands,4.5,6,,2018-04-06 15:25:52,FALSE,Gordons Bay,https://www.pamgolding.co.za/property-details/6-bedroom-house-for-sale-gordons-bay/sw1369805,632,3,house
+1364,city-bowl,2,2,99,2018-07-25 14:50:05,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-foreshore/as1389211,,,apartment
+1365,boland-winelands,,,205,2017-06-30 14:55:06,FALSE,Mount Royal Golf Estate,https://www.pamgolding.co.za/property-details/house-for-sale-mount-royal-golf-estate/mb1326991,752,,house
+1366,city-bowl,1,1,54,2018-02-22 15:45:02,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-foreshore/as1362548,,,apartment
+1367,northern-suburbs,1,4,,2018-05-21 10:07:23,FALSE,Greenhaven,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-greenhaven/1ah1376956,584,2,house
+1368,atlantic-seaboard,2,3,,2018-09-17 15:55:03,FALSE,Berg En Dal,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-berg-en-dal-hout-bay/hob1399012,925,2,house
+1369,boland-winelands,2,2,,2018-07-13 12:16:09,FALSE,McGregor,https://www.pamgolding.co.za/property-details/2-bedroom-cottage-for-sale-mcgregor/mg1386360,500,,house
+1370,boland-winelands,3,4,266,2018-04-06 09:59:24,FALSE,Croydon Olive Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-croydon-olive-estate/sw1369480,612,2,apartment
+1371,boland-winelands,3,4,400,2018-01-19 11:06:38,FALSE,Tre Donne Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-tre-donne-estate/sw1356295,3200,2,house
+1372,southern-peninsula,1,2,,2018-10-02 14:42:24,FALSE,Kalk Bay,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-kalk-bay/fh1401193,221,,house
+1373,southern-suburbs,2,2,106,2018-09-05 15:17:38,FALSE,Three Anchor Bay,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-three-anchor-bay/as1397115,,,apartment
+1374,northern-suburbs,2,3,,2018-02-27 13:30:33,FALSE,Constantia,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-constantia-cape-town/kw1363228,1240,2,house
+1375,northern-suburbs,2,4,,2018-10-17 09:39:47,FALSE,Harfield Village,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-harfield-village/kw1403651,289,,house
+1376,boland-winelands,2,5,330,2017-10-12 09:25:04,FALSE,Robertson,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-robertson/rob1343031,1071,2,apartment
+1377,boland-winelands,2,3,275,2018-02-27 13:31:14,FALSE,Robertson,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-robertson/rob1363229,1267,2,apartment
+1378,boland-winelands,3,3,,2017-10-19 13:31:22,FALSE,Robertson,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-robertson/rob1344461,420,1,house
+1379,boland-winelands,3,3,,2018-09-03 16:42:22,FALSE,Riebeek West,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-riebeek-west/rv1394554,1300,2,house
+1380,northern-suburbs,3,3,228,2018-01-22 15:04:48,FALSE,Wynberg Upper,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-wynberg-upper/kw1331910,727,2,house
+1381,southern-peninsula,2,3,,2015-09-03 16:12:27,FALSE,Simons Town Central,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-simons-town-central/sim1234896,624,2,house
+1382,boland-winelands,3.5,4,272,2018-03-14 13:46:05,FALSE,Nooitgedacht Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-nooitgedacht-estate/st1365573,368,2,house
+1383,southern-suburbs,4,4,,2018-03-19 14:23:49,FALSE,Silvertree Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-silvertree-estate/kw1366931,641,,house
+1384,boland-winelands,2,3,,2018-09-14 16:25:47,FALSE,Gordons Bay,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-gordons-bay/sw1398747,996,,house
+1385,southern-suburbs,2.5,4,,2018-10-02 13:12:47,FALSE,Bergvliet,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-bergvliet/kw1401087,519,2,house
+1386,boland-winelands,3,3,249,2018-05-04 15:22:13,FALSE,Golden Hill,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-golden-hill/sw1374136,2016,2,apartment
+1387,southern-suburbs,2.5,3,171,2018-09-04 15:23:03,FALSE,Wynberg Upper,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-wynberg-upper/kw1396906,385,2,house
+1388,boland-winelands,,,,2017-12-10 17:16:39,FALSE,Boland (Winelands),https://www.pamgolding.co.za/property-details/house-for-sale-boland-winelands/rv1352539,508,,house
+1389,southern-peninsula,2,3,120,2018-09-17 12:36:17,FALSE,Silverglade,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-silverglade-fish-hoek/fh1398912,306,1,house
+1390,city-bowl,1,1,47,2017-02-23 09:28:31,FALSE,Zonnebloem,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-zonnebloem/kw1307616,,,apartment
+1391,boland-winelands,2,3,265,2018-10-09 15:22:17,FALSE,Helena Heights,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-helena-heights/sw1401492,3442,,house
+1392,city-bowl,1,2,84,2018-05-23 11:13:18,FALSE,Oranjezicht,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-oranjezicht/cb1377389,,,apartment
+1393,boland-winelands,4,4,387,2018-11-06 19:36:08,FALSE,Pearl Valley at Val de Vie,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-pearl-valley-at-val-de-vie/tk1406049,646,2,house
+1394,southern-peninsula,1.5,2,125,2018-10-18 14:32:44,FALSE,Muizenberg,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-muizenberg/fh1399025,298,,house
+1395,southern-suburbs,2,2,88,2018-11-09 10:18:14,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1407532,,,apartment
+1396,boland-winelands,2,4,206,2018-09-07 10:20:59,FALSE,Onverwacht,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-onverwacht-strand/sw1397435,762,,apartment
+1397,boland-winelands,2,2,,2018-07-09 13:16:39,FALSE,Riebeek West,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-riebeek-west/rv1386268,1013,2,apartment
+1398,boland-winelands,2,3,,2016-07-05 13:49:07,FALSE,Mount Royal Golf Estate,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-mount-royal-golf-estate/mb1275571,828,,house
+1399,southern-suburbs,1,4,,2018-09-26 12:59:20,FALSE,Athlone,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-athlone-cape-town/1ah1400258,434,2,house
+1400,atlantic-seaboard,1,1,64,2018-05-18 14:31:35,FALSE,Mouille Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-mouille-point/as1376821,,1,apartment
+1401,boland-winelands,2,3,140,2018-07-16 16:44:09,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tafelzicht/1ms1387579,397,1,apartment
+1402,southern-suburbs,1,2,84,2018-09-14 11:21:37,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1398583,,,apartment
+1403,boland-winelands,2,3,126,2018-10-26 16:39:16,FALSE,Welgevonden Estate,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-welgevonden-estate-stellenbosch/st1405521,156,1,house
+1404,northern-suburbs,1,3,,2018-04-04 10:25:11,FALSE,Rosebank,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-rosebank-cape-town/kw1369196,230,,house
+1405,southern-suburbs,3,5,397,2018-06-22 14:27:52,FALSE,Wynberg Upper,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-wynberg-upper/kw1383780,1361,,house
+1406,southern-suburbs,2,4,323,2018-08-21 16:45:25,FALSE,Athlone,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-athlone-cape-town/1ah1394555,445,,house
+1407,southern-suburbs,3.5,4,340,2018-07-21 18:56:33,FALSE,Constantia,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-constantia-cape-town/kw1388544,1875,2,house
+1408,southern-peninsula,3,4,160,2018-09-28 16:45:19,FALSE,Imhoffs Gift,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-imhoffs-gift/fh1400748,735,1,house
+1409,southern-suburbs,1,1,51,2018-10-16 13:01:21,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-sea-point/as1403538,,,apartment
+1410,boland-winelands,2.5,2,,2017-05-09 14:56:04,FALSE,Wellington North,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-wellington-north/wel1318634,176,1,house
+1411,boland-winelands,4,5,343,2018-10-12 12:27:51,FALSE,Parel Vallei,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-parel-vallei/sw1400193,806,2,house
+1412,southern-peninsula,6,5,351,2018-08-13 14:38:19,FALSE,Muizenberg,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-muizenberg/fh1390558,572,3,house
+1413,northern-suburbs,2,4,323,2018-08-21 16:45:25,FALSE,Athlone,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-athlone-cape-town/1ah1394555,445,,house
+1414,boland-winelands,4.5,4,477,2017-09-27 09:44:58,FALSE,Wellington Central,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-wellington-central/wel1338588,1791,3,house
+1415,boland-winelands,2.5,4,200,2018-10-15 14:28:06,FALSE,Bergzicht,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-bergzicht/1ms1403348,1152,,apartment
+1416,boland-winelands,2,3,,2018-10-22 15:23:19,FALSE,Bergzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-bergzicht/1ms1404582,396,2,house
+1417,southern-suburbs,1,1,110,2018-08-27 14:53:42,FALSE,Waterfront,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-waterfront-cape-town/as1395533,,,apartment
+1418,boland-winelands,2,5,450,2017-03-16 09:48:56,FALSE,Amandelrug,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-amandelrug-malmesbury/mb1311171,2400,2,apartment
+1419,southern-peninsula,2,3,,2018-09-01 11:38:12,FALSE,Simons Town,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-simons-town/fh1386976,594,1,house
+1420,northern-suburbs,3,3,127,2017-08-17 11:35:42,FALSE,Penlyn Estate,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-penlyn-estate/1ah1334343,254,,house
+1421,atlantic-seaboard,2,2,99,2018-06-29 14:19:53,FALSE,Green Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-green-point-cape-town/as1384425,,1,apartment
+1422,northern-suburbs,2,4,142,2018-10-15 09:48:01,FALSE,Observatory,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-observatory-cape-town/kw1402505,227,,house
+1423,city-bowl,1,1,54,2018-08-22 16:40:14,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-foreshore/as1394911,,,apartment
+1424,southern-suburbs,2,4,,2018-06-14 14:14:02,FALSE,Fairways,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-fairways/1ot1360164,502,2,house
+1425,southern-suburbs,3,5,,2018-07-13 12:33:24,FALSE,Penlyn Estate,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-penlyn-estate/1ah1376704,623,6,house
+1426,southern-peninsula,1.5,2,90,2018-07-26 22:52:17,TRUE,Simons Town,https://www.pamgolding.co.za/property-details/2-bedroom-cottage-for-sale-simons-town/fh1388980,245,,house
+1427,boland-winelands,2,3,,2018-08-24 14:30:46,FALSE,Gordons Bay,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-gordons-bay/sw1395264,496,,apartment
+1428,boland-winelands,3,4,,2016-11-22 13:13:30,FALSE,Robertson,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-robertson/rob1295549,591,2,apartment
+1429,city-bowl,2,2,147,2018-01-24 09:32:38,FALSE,Gardens,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-gardens/cb1356900,,,apartment
+1430,boland-winelands,1,2,60,2018-10-24 11:04:43,FALSE,Strand,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-strand/sw1404936,60,,house
+1431,southern-peninsula,3,4,177,2018-08-14 12:30:48,FALSE,Kommetjie,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-kommetjie/fh1393161,496,2,house
+1432,boland-winelands,3,4,400,2017-12-08 16:47:12,FALSE,Robertson,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-robertson/rob1352490,2058,2,house
+1433,boland-winelands,2,4,352,2018-09-04 13:19:11,FALSE,Paarl,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-paarl/tk1396710,901,3,apartment
+1434,boland-winelands,3,4,230,2018-06-18 09:30:22,FALSE,Jamestown,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-jamestown/st1382628,264,1,apartment
+1435,city-bowl,2,2,154,2018-09-10 13:15:51,TRUE,Gardens,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-gardens/cb1103521,,,apartment
+1436,northern-suburbs,3,3,,2018-10-23 14:35:23,FALSE,Newlands,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-newlands-cape-town/kw1404793,575,2,house
+1437,atlantic-seaboard,1,1,64,2018-08-03 13:12:39,FALSE,Mouille Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-mouille-point/as1391486,,,apartment
+1438,boland-winelands,3.5,4,318,2018-08-17 13:28:53,FALSE,Die Boord,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-die-boord/st1394110,1116,2,apartment
+1439,boland-winelands,2.5,3,300,2016-11-24 12:23:41,FALSE,Robertson,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-robertson/rob1295895,925,3,apartment
+1440,boland-winelands,2,4,,2018-06-15 12:37:28,FALSE,Prince Alfred Hamlet,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-prince-alfred-hamlet/rv1382396,3596,,house
+1441,boland-winelands,2,3,,2018-07-27 12:33:43,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tafelzicht/1ms1389651,804,2,apartment
+1442,boland-winelands,2,3,340,2018-11-01 15:11:40,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-la-sandra/sw1404477,1200,2,apartment
+1443,southern-suburbs,4,4,,2018-10-01 12:01:05,FALSE,Rondebosch,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-rondebosch/kw1400874,495,1,house
+1444,boland-winelands,2,3,200,2018-01-29 16:40:45,FALSE,Franschhoek,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-franschhoek/fwi1358039,623,,house
+1445,southern-suburbs,1,1,55,2018-05-10 15:37:06,FALSE,Mouille Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-mouille-point/as1375328,,,apartment
+1446,southern-suburbs,1.5,2,101,2018-10-15 11:09:47,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1403245,,,apartment
+1447,southern-peninsula,2,3,158,2018-07-03 11:16:13,FALSE,Noordhoek,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-noordhoek-cape-town/fh1385330,1027,2,house
+1448,northern-suburbs,1,2,56,2018-08-07 10:19:14,FALSE,Sonstraal Heights,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sonstraal-heights/dbv1392008,,,apartment
+1449,boland-winelands,3,3,230,2018-08-31 15:10:39,FALSE,Robertson,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-robertson/rob1396446,991,1,house
+1450,boland-winelands,4,4,,2018-04-11 11:57:13,FALSE,Val de Vie,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-val-de-vie/tk1370352,459,2,house
+1451,northern-suburbs,1,2,60,2018-03-09 15:08:52,FALSE,Durbanville,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-durbanville/dbv1365427,,,apartment
+1452,southern-suburbs,1,2,83,2017-09-08 11:04:07,FALSE,Green Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-green-point-cape-town/as1337806,,,apartment
+1453,southern-peninsula,2,3,172,2018-10-26 12:46:35,FALSE,Simons Town,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-simons-town/fh1405439,706,,house
+1454,southern-peninsula,3,4,,2017-05-12 09:34:10,FALSE,Seaforth,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-seaforth/sim1319304,639,2,house
+1455,southern-suburbs,2,4,,2018-02-05 14:42:42,FALSE,Silvertown,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-silvertown/1ah1359222,368,,house
+1456,boland-winelands,3,4,265,2017-04-06 16:04:28,FALSE,Mountainside,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-mountainside/sw1314566,719,,house
+1457,boland-winelands,2,2,150,2016-12-02 11:01:29,FALSE,Gordon Heights,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-gordon-heights/sw1297003,2847,2,apartment
+1458,boland-winelands,3,4,580,2017-12-04 10:49:40,FALSE,Greenways,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-greenways/sw1351638,676,2,house
+1459,boland-winelands,3,3,249,2018-05-04 15:22:13,FALSE,Golden Hill,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-golden-hill/sw1374136,2016,2,house
+1460,city-bowl,1,1,66,2018-04-19 12:38:55,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-foreshore/as1371819,,,apartment
+1461,northern-suburbs,2,3,,2018-07-31 10:04:07,TRUE,Pinelands,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-pinelands-cape-town/kw1389648,963,1,house
+1462,southern-peninsula,2,2,92,2018-08-14 14:15:23,FALSE,Muizenberg,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-muizenberg/fh1392150,,,apartment
+1463,boland-winelands,2,3,150,2018-07-11 16:07:00,FALSE,Paarl,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-paarl/tk1386792,441,2,house
+1464,southern-peninsula,2,5,,2017-01-23 12:22:16,FALSE,Noordhoek,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-noordhoek-cape-town/nh1302033,4106,2,house
+1465,southern-suburbs,2,3,,2018-09-12 12:55:37,FALSE,Claremont,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-claremont-cape-town/kw1398185,397,1,house
+1466,atlantic-seaboard,2,2,109,2018-09-25 11:30:51,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1400018,,,apartment
+1467,boland-winelands,1,2,,2018-11-09 09:20:24,FALSE,McGregor,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-mcgregor/mg1407333,1003,,apartment
+1468,boland-winelands,3,4,300,2018-04-23 16:09:05,FALSE,Franschhoek,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-franschhoek/fwi1372124,821,1,apartment
+1469,boland-winelands,2,4,298,2018-10-07 16:01:11,FALSE,Paarl,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-paarl/tk1397454,636,,house
+1470,southern-suburbs,1,1,64,2018-05-18 14:31:35,FALSE,Mouille Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-mouille-point/as1376821,,1,apartment
+1471,boland-winelands,3,4,420,2018-02-23 14:04:08,FALSE,Nuwe Uitsig,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-nuwe-uitsig/wel1362700,925,3,apartment
+1472,southern-suburbs,2.5,4,,2018-10-22 10:05:38,FALSE,Constantia,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-constantia-cape-town/kw1404151,1177,2,house
+1473,southern-suburbs,2,4,119,2018-08-23 15:43:02,FALSE,Observatory,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-observatory-cape-town/kw1395111,207,,house
+1474,city-bowl,1,1,54,2018-10-26 11:56:42,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-foreshore/as1405117,,,apartment
+1475,boland-winelands,2,4,273,2018-10-17 11:37:03,FALSE,Mount Royal Golf Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-mount-royal-golf-estate/1ms1403767,720,,house
+1476,boland-winelands,4,5,,2015-07-01 18:35:51,FALSE,Riebeek West,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-riebeek-west/rv1226747,960,2,house
+1477,southern-suburbs,2.5,4,,2018-07-20 13:33:38,FALSE,Pinelands,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-pinelands-cape-town/kw1388284,922,1,house
+1478,atlantic-seaboard,2,3,194,2018-02-22 11:04:22,FALSE,Northshore,https://www.pamgolding.co.za/property-details/3-bedroom-apartment-for-sale-northshore/1hg1362386,,1,apartment
+1479,southern-suburbs,2,4,180,2018-07-06 13:33:47,FALSE,Lansdowne,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-lansdowne/1ot1386022,495,,house
+1480,boland-winelands,2,2,,2018-09-07 12:11:43,FALSE,Strand Central,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-strand-central/sw1397484,180,1,apartment
+1481,city-bowl,1,1,54,2018-05-23 12:03:17,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-foreshore/as1377443,,,apartment
+1482,boland-winelands,5,5,600,2018-04-11 11:24:33,FALSE,De Wijnlanden,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-de-wijnlanden/st1370326,846,3,apartment
+1483,northern-suburbs,1,3,,2018-10-15 14:02:00,FALSE,Kewtown,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-kewtown/1ah1403289,123,,house
+1484,southern-suburbs,1,2,76,2018-08-21 09:37:12,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1394492,,,apartment
+1485,boland-winelands,6,6,,2018-05-18 18:34:41,FALSE,Gordons Bay,https://www.pamgolding.co.za/property-details/6-bedroom-house-for-sale-gordons-bay/sw1376768,833,,apartment
+1486,boland-winelands,2,3,309,2018-07-26 12:00:44,FALSE,Boschenmeer Golf Estate,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-boschenmeer-golf-estate/tk1389392,600,2,apartment
+1487,boland-winelands,1,3,187,2018-10-22 17:58:34,FALSE,Strand North,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-strand-north/sw1404592,495,4,house
+1488,atlantic-seaboard,1,2,76,2018-05-16 08:43:55,FALSE,Green Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-green-point-cape-town/as1374521,,,apartment
+1489,boland-winelands,1,3,109,2018-01-12 14:11:43,FALSE,La Colline,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-la-colline/st1355111,379,,house
+1490,boland-winelands,2,3,,2018-10-18 09:52:06,FALSE,Wellington Central,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-wellington-central/wel1403946,396,,house
+1491,boland-winelands,2,2,,2017-10-06 16:03:41,FALSE,Gordons Bay,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-gordons-bay/sw1342255,324,,house
+1492,southern-suburbs,1,1,48,2017-02-24 10:19:18,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-sea-point/as1307869,,,apartment
+1493,boland-winelands,2,3,265,2018-10-09 15:22:17,FALSE,Helena Heights,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-helena-heights/sw1401492,3442,,apartment
+1494,boland-winelands,3,4,380,2018-06-28 13:05:46,FALSE,Steynsrust,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-steynsrust/sw1383117,968,,house
+1495,northern-suburbs,2,4,,2018-02-05 14:42:42,FALSE,Silvertown,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-silvertown/1ah1359222,368,,house
+1496,boland-winelands,3,3,,2018-09-28 14:08:36,FALSE,Riebeek Kasteel,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-riebeek-kasteel/rv1400712,689,1,apartment
+1497,boland-winelands,2,2,200,2018-10-19 11:55:49,FALSE,Dennegeur,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-dennegeur/sw1404214,470,2,apartment
+1498,boland-winelands,3,4,290,2018-07-12 15:00:32,FALSE,Croydon Vineyard Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-croydon-vineyard-estate/sw1386947,780,2,apartment
+1499,boland-winelands,5,5,550,2018-05-25 15:47:57,FALSE,Gordons Bay,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-gordons-bay/sw1377957,646,2,house
+1500,northern-suburbs,3,4,,2018-07-30 13:23:08,FALSE,Claremont Upper,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-claremont-upper/kw1389476,705,,house
+1501,boland-winelands,2.5,3,196,2018-10-12 16:16:17,FALSE,Welgevonden Estate,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-welgevonden-estate-stellenbosch/st1403132,180,2,apartment
+1502,southern-peninsula,2,2,72,2018-10-19 16:26:39,TRUE,Kalk Bay,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-kalk-bay/fh1404310,,,apartment
+1503,boland-winelands,2,4,,2018-02-15 12:18:14,FALSE,Paarl,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-paarl/tk1354930,1126,,apartment
+1504,boland-winelands,4,5,,2015-07-01 18:35:51,FALSE,Riebeek West,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-riebeek-west/rv1226747,960,2,apartment
+1505,atlantic-seaboard,2,3,140,2018-07-03 16:27:01,FALSE,Beach Estate,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-beach-estate/hob1385396,496,1,house
+1506,boland-winelands,4,3,395,2018-11-09 16:06:45,FALSE,Franschhoek,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-franschhoek/fwi1407701,480,2,apartment
+1507,southern-suburbs,3,3,,2018-06-14 14:49:17,FALSE,Kenilworth Upper,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-kenilworth-upper/kw1381437,725,2,house
+1508,southern-suburbs,2,2,78,2018-08-24 11:13:13,FALSE,Mouille Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-mouille-point/as1395200,,,apartment
+1509,northern-suburbs,1,,127,2018-06-11 16:35:44,FALSE,Constantia Upper,https://www.pamgolding.co.za/property-details/house-for-sale-constantia-upper/kw1381308,996,,house
+1510,southern-suburbs,4,4,,2018-06-26 09:05:34,FALSE,Claremont,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-claremont-cape-town/kw1384085,629,2,house
+1511,southern-peninsula,3,6,,2018-03-19 15:46:14,FALSE,Zeekoevlei,https://www.pamgolding.co.za/property-details/6-bedroom-house-for-sale-zeekoevlei/1ot1366050,655,3,house
+1512,boland-winelands,2,3,250,2018-05-04 10:58:54,FALSE,Robertson,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-robertson/rob1372474,1303,2,apartment
+1513,boland-winelands,4.5,7,600,2018-07-25 14:44:28,FALSE,Helena Heights,https://www.pamgolding.co.za/property-details/7-bedroom-house-for-sale-helena-heights/sw1389206,2204,2,apartment
+1514,southern-suburbs,2,3,170,2018-09-28 15:26:07,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/3-bedroom-apartment-for-sale-sea-point/as1400728,,1,apartment
+1515,northern-suburbs,2.5,4,,2018-07-23 14:00:57,FALSE,Constantia,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-constantia-cape-town/kw1388008,1210,2,house
+1516,boland-winelands,2,4,185,2018-09-28 15:25:31,FALSE,Paarl North,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-paarl-north/tk1398886,403,1,house
+1517,southern-suburbs,1,2,112,2018-09-10 12:36:44,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1397373,,,apartment
+1518,boland-winelands,3,3,220,2018-10-12 11:48:00,FALSE,Paarl,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-paarl/tk1402599,417,,apartment
+1519,boland-winelands,1,3,,2015-03-13 11:24:44,FALSE,Paarl,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-paarl/tk1212677,886,,apartment
+1520,southern-suburbs,3,5,500,2017-03-23 12:33:39,FALSE,Rondebosch,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-rondebosch/kw1312164,986,2,house
+1521,northern-suburbs,2,3,135,2018-10-03 07:47:21,TRUE,Observatory,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-observatory-cape-town/kw1400412,335,,house
+1522,northern-suburbs,1,2,66,2018-11-16 11:14:46,FALSE,Burgundy Estate,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-burgundy-estate/1pla1408571,,,apartment
+1523,boland-winelands,6,7,,2015-11-23 14:54:31,FALSE,De Molen,https://www.pamgolding.co.za/property-details/7-bedroom-house-for-sale-de-molen/mb1246449,966,,apartment
+1524,boland-winelands,3,4,380,2018-10-10 09:22:18,FALSE,Helderrand,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-helderrand/sw1402457,2093,2,house
+1525,atlantic-seaboard,2,3,116,2018-09-06 13:52:42,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/3-bedroom-apartment-for-sale-sea-point/as1397254,,1,apartment
+1526,boland-winelands,5,5,354,2018-04-18 14:53:26,FALSE,Paarl,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-paarl/tk1371576,2065,,apartment
+1527,boland-winelands,3,5,,2016-04-20 13:06:06,FALSE,Bergzicht,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-bergzicht/mb1265165,1428,,house
+1528,city-bowl,2,2,99,2018-10-01 12:07:47,FALSE,Cape Town Central,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-cape-town-central/cb1398995,,,apartment
+1529,atlantic-seaboard,3,4,240,2018-04-24 09:55:39,FALSE,Scott Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-scott-estate/1hg1371307,491,2,house
+1530,boland-winelands,1,3,,2018-08-28 16:37:55,FALSE,Strand,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-strand/sw1395808,140,,apartment
+1531,boland-winelands,,,205,2017-06-30 14:55:06,FALSE,Mount Royal Golf Estate,https://www.pamgolding.co.za/property-details/house-for-sale-mount-royal-golf-estate/mb1326991,752,,apartment
+1532,southern-peninsula,4,5,278,2018-07-10 09:12:47,FALSE,Chapmans Peak,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-chapmans-peak/fh1385975,1117,2,house
+1533,boland-winelands,2,2,120,2018-10-17 23:43:26,FALSE,Robertson,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-robertson/rob1403932,740,,apartment
+1534,boland-winelands,4,5,500,2013-11-11 10:27:03,FALSE,Paarl,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-paarl/tk1157549,1106,3,apartment
+1535,boland-winelands,3,3,,2017-09-04 14:45:52,FALSE,Gouda,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-gouda/tk1336986,1428,,house
+1536,boland-winelands,2,3,157,2018-04-20 15:43:11,FALSE,Paarl,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-paarl/tk1370769,351,2,house
+1537,southern-suburbs,1,1,57,2018-05-30 10:19:22,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-sea-point/as1378491,,,apartment
+1538,city-bowl,1,1,54,2018-08-31 12:56:20,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-foreshore/as1393243,,,apartment
+1539,atlantic-seaboard,1,,51,2018-01-30 15:58:47,FALSE,Fresnaye,https://www.pamgolding.co.za/property-details/apartment-for-sale-fresnaye/as1356597,,,apartment
+1540,city-bowl,1,2,73,2018-09-05 15:57:56,FALSE,Tamboerskloof,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-tamboerskloof/cb1397125,,1,apartment
+1541,boland-winelands,4.5,4,397,2017-09-27 10:02:07,FALSE,Wellington Central,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-wellington-central/wel1336963,1770,3,apartment
+1542,southern-suburbs,1.5,3,,2018-10-09 14:35:55,FALSE,Lotus River,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-lotus-river/1ot1402300,469,,house
+1543,atlantic-seaboard,1,2,92,2018-10-02 15:37:12,FALSE,Three Anchor Bay,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-three-anchor-bay/as1401215,,,apartment
+1544,atlantic-seaboard,1,1,38,2018-10-23 09:40:16,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-sea-point/as1404654,,,apartment
+1545,boland-winelands,4,5,,2018-07-03 16:23:32,FALSE,Paarl,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-paarl/tk1255759,742,2,apartment
+1546,boland-winelands,4,5,890,2018-11-12 08:59:36,FALSE,Helderberg Estate,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-helderberg-estate/sw1406885,1530,2,house
+1547,atlantic-seaboard,1,1,46,2018-05-14 10:03:45,FALSE,Green Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-green-point-cape-town/as1371548,,,apartment
+1548,atlantic-seaboard,2,3,170,2018-10-08 14:10:51,TRUE,Northshore,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-northshore/hob1402074,500,1,house
+1549,boland-winelands,2.5,3,,2018-09-25 16:51:18,FALSE,Worlds View,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-worlds-view-somerset-west/sw1400120,415,3,apartment
+1550,boland-winelands,3,4,,2017-10-10 07:55:42,FALSE,Riebeek Kasteel,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-riebeek-kasteel/rv1342510,595,1,apartment
+1551,boland-winelands,2,3,,2018-10-15 14:57:47,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tafelzicht/1ms1403362,792,2,house
+1552,boland-winelands,2,3,113,2018-01-30 15:43:34,FALSE,Paarl,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-paarl/tk1358206,180,1,apartment
+1553,northern-suburbs,2,3,89,2018-02-20 13:00:48,FALSE,Durbanville,https://www.pamgolding.co.za/property-details/3-bedroom-apartment-for-sale-durbanville/dbv1361975,,,apartment
+1554,boland-winelands,3,4,260,2018-07-27 12:01:11,FALSE,Mountainside,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-mountainside/sw1389635,699,2,apartment
+1555,northern-suburbs,1,4,,2018-09-26 12:59:20,FALSE,Athlone,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-athlone-cape-town/1ah1400258,434,2,house
+1556,boland-winelands,,3,,2018-03-12 12:56:11,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tafelzicht/1ms1365628,661,2,house
+1557,boland-winelands,3,4,540,2018-03-14 15:32:00,FALSE,Courtrai,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-courtrai/tk1366131,1592,4,house
+1558,boland-winelands,2.5,3,260,2018-02-12 09:15:47,FALSE,Montclair,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-montclair-somerset-west/sw1360380,849,2,house
+1559,northern-suburbs,1,4,,2018-09-12 12:55:43,FALSE,Observatory,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-observatory-cape-town/kw1398049,188,,house
+1560,boland-winelands,2,3,,2018-07-31 16:35:56,FALSE,McGregor,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-mcgregor/mg1390345,718,2,house
+1561,southern-peninsula,2,3,140,2018-10-02 10:19:13,FALSE,Simons Town,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-simons-town/fh1389596,299,2,house
+1562,southern-suburbs,2,3,147,2018-09-20 11:00:39,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/3-bedroom-apartment-for-sale-sea-point/as1399566,,1,apartment
+1563,boland-winelands,4.5,4,341,2018-04-13 16:39:05,FALSE,Longlands Country Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-longlands-country-estate/st1370947,714,2,house
+1564,boland-winelands,2,4,350,2018-07-30 10:50:34,FALSE,Robertson,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-robertson/rob1389882,1301,,apartment
+1565,boland-winelands,2,3,163,2018-06-05 11:26:20,FALSE,Strand South,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-strand-south/sw1379102,282,2,house
+1566,atlantic-seaboard,1,2,78,2018-02-16 13:11:34,FALSE,Beach Estate,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-beach-estate/1hg1360999,,,apartment
+1567,boland-winelands,1,2,122,2018-07-16 15:37:47,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-tafelzicht/1ms1387550,381,,house
+1568,city-bowl,2,2,95,2018-10-01 10:06:45,FALSE,Gardens,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-gardens/cb1400832,,,apartment
+1569,boland-winelands,2,3,226,2018-10-15 14:57:37,FALSE,Paradyskloof,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-paradyskloof/st1403361,840,2,apartment
+1570,boland-winelands,2.5,2,,2018-10-15 16:42:41,FALSE,Montclair,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-montclair-somerset-west/sw1403428,1203,2,apartment
+1571,atlantic-seaboard,2,2,88,2018-03-09 09:29:35,FALSE,Mouille Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-mouille-point/as1365242,,,apartment
+1572,southern-peninsula,2.5,3,,2016-09-28 12:35:39,FALSE,Noordhoek,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-noordhoek-cape-town/nh1287280,815,2,house
+1573,boland-winelands,2,3,,2018-02-28 14:26:45,FALSE,Franschhoek,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-franschhoek/fwi1363497,556,1,house
+1574,boland-winelands,3,4,,2016-10-27 15:41:01,FALSE,Mountainside,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-mountainside/sw1291712,535,2,house
+1575,boland-winelands,1,2,120,2018-07-16 12:40:59,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-tafelzicht/1ms1387465,381,,house
+1576,boland-winelands,3,4,240,2018-07-05 12:28:35,FALSE,Panorama,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-panorama-malmesbury/1ms1349345,972,4,apartment
+1577,southern-peninsula,2,3,191,2018-06-12 09:08:26,FALSE,Harbour Heights,https://www.pamgolding.co.za/property-details/3-bedroom-apartment-for-sale-harbour-heights/fh1381202,,2,apartment
+1578,southern-peninsula,2,3,,2018-11-05 14:51:18,FALSE,Lakeside,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-lakeside-cape-town/kw1406851,537,2,house
+1579,boland-winelands,4,4,352,2018-03-26 17:13:45,FALSE,Koringberg,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-koringberg/rv1368117,4246,3,apartment
+1580,boland-winelands,1,3,191,2018-10-15 11:14:05,FALSE,Vrykyk,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-vrykyk/tk1377259,738,,house
+1581,boland-winelands,4,4,289,2018-06-26 10:57:42,FALSE,Brandwacht,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-brandwacht/st1384166,1326,2,apartment
+1582,boland-winelands,3,4,395,2018-06-06 13:56:19,FALSE,Helderrand,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-helderrand/sw1378387,875,2,house
+1583,boland-winelands,4,4,352,2018-03-26 17:13:45,FALSE,Koringberg,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-koringberg/rv1368117,4246,3,house
+1584,boland-winelands,3,4,202,2018-07-18 12:52:37,FALSE,Vrykyk,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-vrykyk/tk1378239,728,1,house
+1585,boland-winelands,2,2,112,2018-07-17 14:31:24,FALSE,Strand South,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-strand-south/sw1387748,189,1,house
+1586,atlantic-seaboard,1,2,84,2018-09-14 11:21:37,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1398583,,,apartment
+1587,boland-winelands,2,3,114,2018-02-05 11:48:47,FALSE,Klein Parys,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-klein-parys/tk1359120,243,1,house
+1588,atlantic-seaboard,1,1,65,2018-09-07 10:54:27,FALSE,De Waterkant,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-de-waterkant/as1397449,,,apartment
+1589,boland-winelands,4,4,370,2018-01-16 10:46:33,FALSE,Boschenmeer Golf Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-boschenmeer-golf-estate/tk1355557,398,2,house
+1590,boland-winelands,1,3,,2016-08-05 22:06:19,FALSE,Tulbagh,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tulbagh/rv1279820,732,1,house
+1591,southern-suburbs,2,2,109,2018-09-25 11:30:51,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1400018,,,apartment
+1592,boland-winelands,4,5,302,2018-01-17 16:48:33,FALSE,Onder Papegaaiberg,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-onder-papegaaiberg/st1355946,963,2,apartment
+1593,boland-winelands,2,3,114,2018-02-05 11:48:47,FALSE,Klein Parys,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-klein-parys/tk1359120,243,1,apartment
+1594,boland-winelands,4.5,4,343,2018-11-12 12:04:26,FALSE,Croydon Olive Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-croydon-olive-estate/sw1407826,630,,house
+1595,southern-peninsula,2,3,160,2018-10-02 15:23:42,FALSE,Kalk Bay,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-kalk-bay/fh1401209,334,1,house
+1596,boland-winelands,2,3,130,2018-08-28 09:51:39,FALSE,Bergzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-bergzicht/1ms1395523,356,1,house
+1597,boland-winelands,2,4,273,2017-11-23 15:47:11,FALSE,Mount Royal Golf Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-mount-royal-golf-estate/1ms1350292,720,,house
+1598,boland-winelands,3,4,300,2018-10-08 15:38:31,FALSE,Franschhoek,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-franschhoek/fwi1402111,650,1,apartment
+1599,boland-winelands,2,2,293,2017-10-19 10:04:29,FALSE,Gordons Bay,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-gordons-bay/sw1342496,399,2,apartment
+1600,boland-winelands,5,5,600,2018-04-11 11:24:33,FALSE,De Wijnlanden,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-de-wijnlanden/st1370326,846,3,house
+1601,boland-winelands,4,4,,2018-11-12 14:21:19,FALSE,Riebeek Kasteel,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-riebeek-kasteel/rv1407915,1636,2,house
+1602,boland-winelands,4,4,480,2017-11-28 10:44:42,FALSE,Mountainside,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-mountainside/sw1350355,755,2,apartment
+1603,boland-winelands,3,4,,2017-10-10 07:55:42,FALSE,Riebeek Kasteel,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-riebeek-kasteel/rv1342510,595,1,house
+1604,southern-suburbs,2,3,,2018-03-27 11:43:04,FALSE,Diep River,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-diep-river/kw1368049,310,2,house
+1605,boland-winelands,2,3,,2018-11-06 10:07:57,FALSE,De Molen,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-de-molen/1ms1406940,711,2,apartment
+1606,boland-winelands,4,4,300,2017-11-20 15:18:33,FALSE,McGregor,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-mcgregor/mg1349603,2135,,apartment
+1607,boland-winelands,2,3,175,2018-08-28 11:40:26,FALSE,Val de Vie,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-val-de-vie/tk1395674,432,1,house
+1608,boland-winelands,4,4,400,2016-10-21 09:30:10,FALSE,Ceres,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-ceres/rv1290666,500,,apartment
+1609,southern-peninsula,2,3,225,2018-10-11 15:00:28,TRUE,Marina Da Gama,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-marina-da-gama/fh1402860,868,3,house
+1610,southern-suburbs,1,1,65,2018-10-12 11:21:23,FALSE,Three Anchor Bay,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-three-anchor-bay/as1402989,,,apartment
+1611,southern-peninsula,2,3,154,2018-11-05 14:46:10,FALSE,Marina Da Gama,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-marina-da-gama/fh1406850,279,1,house
+1612,boland-winelands,2,3,356,2018-04-23 11:36:05,FALSE,Val de Vie,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-val-de-vie/tk1372037,823,2,apartment
+1613,boland-winelands,2,4,,2018-01-25 19:56:16,FALSE,Prince Alfred Hamlet,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-prince-alfred-hamlet/rv1357535,1395,,house
+1614,northern-suburbs,1,3,150,2018-10-11 14:30:16,FALSE,Kenwyn,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-kenwyn/kw1402844,344,1,house
+1615,boland-winelands,2,3,309,2018-07-26 12:00:44,FALSE,Boschenmeer Golf Estate,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-boschenmeer-golf-estate/tk1389392,600,2,house
+1616,atlantic-seaboard,2,2,80,2018-07-05 16:34:51,FALSE,Bantry Bay,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-bantry-bay/as1362184,,,apartment
+1617,southern-suburbs,2.5,3,,2018-10-22 11:44:05,FALSE,Claremont,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-claremont-cape-town/kw1404467,115,1,house
+1618,southern-suburbs,1,2,,2018-06-11 14:32:26,FALSE,Wynberg Upper,https://www.pamgolding.co.za/property-details/2-bedroom-cottage-for-sale-wynberg-upper/kw1381219,238,,house
+1619,southern-suburbs,1,1,64,2017-05-12 14:11:33,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-sea-point/as1319416,,,apartment
+1620,boland-winelands,5,5,354,2018-04-18 14:53:26,FALSE,Paarl,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-paarl/tk1371576,2065,,house
+1621,southern-peninsula,2,3,197,2018-10-31 16:27:53,FALSE,Clovelly,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-clovelly-cape-town/fh1406221,1213,2,house
+1622,northern-suburbs,2,5,,2018-10-09 11:19:32,TRUE,Rosebank,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-rosebank-cape-town/kw1396538,791,,house
+1623,southern-suburbs,1,1,68,2018-02-15 14:16:16,FALSE,Green Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-green-point-cape-town/as1360858,,,apartment
+1624,boland-winelands,3,4,,2018-09-13 14:23:44,FALSE,Helderberg Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-helderberg-estate/sw1398363,2109,2,house
+1625,boland-winelands,4.5,4,351,2018-09-14 15:24:36,FALSE,Nooitgedacht Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-nooitgedacht-estate/st1398721,763,2,house
+1626,boland-winelands,4.5,6,,2018-04-06 15:25:52,FALSE,Gordons Bay,https://www.pamgolding.co.za/property-details/6-bedroom-house-for-sale-gordons-bay/sw1369805,632,3,apartment
+1627,southern-suburbs,3,3,,2018-09-21 09:15:12,FALSE,Mowbray,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-mowbray/kw1399622,446,2,house
+1628,atlantic-seaboard,2,2,68,2018-08-23 15:28:19,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1395099,,,apartment
+1629,southern-peninsula,1,2,79,2018-11-09 09:29:48,FALSE,Marina Da Gama,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-marina-da-gama/fh1407495,286,2,house
+1630,boland-winelands,1,2,,2018-10-10 11:03:00,FALSE,Somerset West,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-somerset-west/sw1401972,208,1,apartment
+1631,southern-suburbs,2,2,100,2017-10-24 11:50:08,FALSE,Three Anchor Bay,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-three-anchor-bay/as1345143,,,apartment
+1632,northern-suburbs,1,3,,2018-08-28 13:47:09,FALSE,Southfield,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-southfield/kw1394588,344,,house
+1633,boland-winelands,3,3,,2018-02-22 16:56:31,FALSE,Harbour Island,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-harbour-island/sw1362571,371,2,house
+1634,boland-winelands,3,4,300,2018-10-08 15:38:31,FALSE,Franschhoek,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-franschhoek/fwi1402111,650,1,house
+1635,boland-winelands,2,4,227,2017-05-19 13:10:42,FALSE,Paarl,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-paarl/tk1320444,573,2,apartment
+1636,atlantic-seaboard,1,1,75,2018-04-26 14:30:59,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-sea-point/as1372711,,,apartment
+1637,city-bowl,1,2,,2018-08-14 15:55:33,FALSE,Gardens,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-gardens/cb1393275,140,,house
+1638,southern-suburbs,3,4,,2017-08-15 15:00:57,FALSE,Kenilworth Upper,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-kenilworth-upper/kw1333948,714,,house
+1639,southern-peninsula,2,4,315,2018-04-13 12:42:59,FALSE,Noordhoek,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-noordhoek-cape-town/nh1348841,1048,2,house
+1640,northern-suburbs,2,3,,2018-10-29 10:52:07,FALSE,Tokai,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tokai/kw1391562,199,2,house
+1641,boland-winelands,2,2,120,2018-10-17 23:43:26,FALSE,Robertson,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-robertson/rob1403932,740,,house
+1642,southern-suburbs,1,1,61,2018-05-07 09:14:23,FALSE,Green Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-green-point-cape-town/as1374345,,,apartment
+1643,northern-suburbs,3,4,194,2018-10-10 09:28:39,FALSE,Pinelands,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-pinelands-cape-town/kw1402355,805,,house
+1644,boland-winelands,2,3,,2018-07-06 16:14:15,FALSE,McGregor,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-mcgregor/mg1385394,1140,,house
+1645,boland-winelands,2,3,138,2018-11-02 19:34:31,FALSE,Welgevonden Estate,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-welgevonden-estate-stellenbosch/st1404534,159,1,house
+1646,boland-winelands,6,6,450,2014-03-28 13:35:50,FALSE,Franschhoek,https://www.pamgolding.co.za/property-details/6-bedroom-house-for-sale-franschhoek/fwi1171744,1837,,apartment
+1647,atlantic-seaboard,1,1,75,2018-05-24 12:46:35,FALSE,Mouille Point,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-mouille-point/as1377657,,,apartment
+1648,northern-suburbs,1,2,60,2018-03-22 11:02:29,FALSE,Durbanville,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-durbanville/dbv1367452,,,apartment
+1649,boland-winelands,2,3,140,2018-07-17 11:39:37,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tafelzicht/1ms1387669,549,1,apartment
+1650,southern-suburbs,2,3,108,2017-09-12 13:59:34,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/3-bedroom-apartment-for-sale-sea-point/as1338168,,,apartment
+1651,northern-suburbs,1,2,60,2016-06-08 15:23:37,FALSE,Amanda Glen,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-amanda-glen-durbanville/dbv1271947,,,apartment
+1652,boland-winelands,2,3,210,2018-10-03 15:34:12,FALSE,Gordon Heights,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-gordon-heights/sw1401420,496,2,apartment
+1653,northern-suburbs,3,5,397,2018-06-22 14:27:52,FALSE,Wynberg Upper,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-wynberg-upper/kw1383780,1361,,house
+1654,boland-winelands,2.5,3,300,2016-11-24 12:23:41,FALSE,Robertson,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-robertson/rob1295895,925,3,house
+1655,boland-winelands,2,3,,2018-03-13 16:22:25,FALSE,Riebeek Kasteel,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-riebeek-kasteel/rv1365959,886,,house
+1656,boland-winelands,2,3,180,2018-07-27 11:18:50,FALSE,Dalsig,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-dalsig-malmesbury/1ms1389606,1062,,apartment
+1657,city-bowl,1,1,54,2017-12-05 12:05:20,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-foreshore/as1351881,,,apartment
+1658,boland-winelands,2,3,220,2018-10-10 21:34:48,FALSE,Paarl South,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-paarl-south/tk1402684,723,2,apartment
+1659,southern-peninsula,5,7,,2018-09-05 11:37:55,FALSE,Imhoffs Gift,https://www.pamgolding.co.za/property-details/7-bedroom-house-for-sale-imhoffs-gift/fh1395718,479,2,house
+1660,city-bowl,1,1,54,2018-11-05 13:24:38,FALSE,Foreshore,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-foreshore/as1395500,,,apartment
+1661,city-bowl,1,,37,2018-03-12 15:13:03,FALSE,Woodstock,https://www.pamgolding.co.za/property-details/bachelor-apartment-for-sale-woodstock/kw1365687,,,apartment
+1662,southern-suburbs,2,3,,2017-10-31 16:31:40,TRUE,Bergvliet,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-bergvliet/kw1346300,1051,2,house
+1663,boland-winelands,2,3,,2017-09-01 12:51:55,FALSE,Strand,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-strand/sw1336750,388,1,house
+1664,city-bowl,1,1,35,2018-08-14 17:54:05,FALSE,Zonnebloem,https://www.pamgolding.co.za/property-details/1-bedroom-apartment-for-sale-zonnebloem/kw1393310,,,apartment
+1665,northern-suburbs,1,2,,2018-06-11 14:32:26,FALSE,Wynberg Upper,https://www.pamgolding.co.za/property-details/2-bedroom-cottage-for-sale-wynberg-upper/kw1381219,238,,house
+1666,atlantic-seaboard,2,3,,2018-07-25 12:20:54,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-sea-point/as1389147,179,,house
+1667,boland-winelands,4.5,4,477,2017-09-27 09:44:58,FALSE,Wellington Central,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-wellington-central/wel1338588,1791,3,apartment
+1668,boland-winelands,2.5,2,,2017-05-09 14:56:04,FALSE,Wellington North,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-wellington-north/wel1318634,176,1,apartment
+1669,southern-peninsula,3.5,4,,2017-07-14 15:48:33,FALSE,Belvedere,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-belvedere/nh1327794,1104,2,house
+1670,boland-winelands,1,2,130,2018-08-16 12:50:08,FALSE,De Molen,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-de-molen/1ms1393786,360,1,apartment
+1671,southern-peninsula,4,6,,2018-08-29 09:46:29,FALSE,Pelikan Heights,https://www.pamgolding.co.za/property-details/6-bedroom-house-for-sale-pelikan-heights/1ot1394383,994,2,house
+1672,southern-peninsula,2,3,154,2018-04-12 14:55:28,FALSE,Simons Town Central,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-simons-town-central/fh1370681,410,1,house
+1673,boland-winelands,2,3,,2018-10-18 09:52:06,FALSE,Wellington Central,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-wellington-central/wel1403946,396,,apartment
+1674,boland-winelands,2,3,331,2017-06-28 16:32:33,FALSE,La Concorde,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-la-concorde/sw1326263,1398,2,apartment
+1675,boland-winelands,2,3,190,2018-08-21 12:13:39,FALSE,Wellington Central,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-wellington-central/wel1394581,340,2,apartment
+1676,atlantic-seaboard,2,2,167,2018-11-13 14:31:08,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1408152,,,apartment
+1677,boland-winelands,2.5,3,243,2017-04-13 09:20:48,FALSE,Paardevlei,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-paardevlei/sw1315395,478,2,apartment
+1678,southern-suburbs,1,3,,2018-09-05 14:54:13,FALSE,Heathfield,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-heathfield/1ot1397075,288,,house
+1679,boland-winelands,1,2,100,2017-11-30 14:55:09,FALSE,Amandelrug,https://www.pamgolding.co.za/property-details/2-bedroom-house-for-sale-amandelrug-malmesbury/1ms1351317,647,,apartment
+1680,boland-winelands,3,4,290,2018-07-12 15:00:32,FALSE,Croydon Vineyard Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-croydon-vineyard-estate/sw1386947,780,2,house
+1681,boland-winelands,3,3,342,2018-11-05 22:36:47,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-la-sandra/sw1333248,1250,3,apartment
+1682,southern-suburbs,2,2,106,2018-06-21 10:46:30,FALSE,Sea Point,https://www.pamgolding.co.za/property-details/2-bedroom-apartment-for-sale-sea-point/as1383294,,1,apartment
+1683,boland-winelands,2,3,228,2018-06-14 14:22:39,FALSE,Jamestown,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-jamestown/st1381985,333,2,apartment
+1684,boland-winelands,2,3,250,2017-12-08 12:59:12,FALSE,Bergzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-bergzicht/1ms1352428,857,,house
+1685,boland-winelands,3,4,266,2018-04-06 09:59:24,FALSE,Croydon Olive Estate,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-croydon-olive-estate/sw1369480,612,2,house
+1686,southern-peninsula,3,4,244,2018-05-07 11:06:21,FALSE,San Michel,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-san-michel/fh1373009,1105,2,house
+1687,boland-winelands,2,3,,2018-07-27 12:33:43,FALSE,Tafelzicht,https://www.pamgolding.co.za/property-details/3-bedroom-house-for-sale-tafelzicht/1ms1389651,804,2,house
+1688,boland-winelands,4,5,302,2018-01-17 16:48:33,FALSE,Onder Papegaaiberg,https://www.pamgolding.co.za/property-details/5-bedroom-house-for-sale-onder-papegaaiberg/st1355946,963,2,house
+1689,northern-suburbs,2.5,4,,2018-10-22 10:05:38,FALSE,Constantia,https://www.pamgolding.co.za/property-details/4-bedroom-house-for-sale-constantia-cape-town/kw1404151,1177,2,house
